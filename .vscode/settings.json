@@ -1,5 +1,14 @@
 {
     "cSpell.words": [
         "astype"
-    ]
+    ],
+    "files.associations": {
+        "First.C": "cpp",
+        "Doubly_Linked_List.C": "cpp",
+        "Linked_List.C": "cpp",
+        "Pointer_in_c.C": "cpp",
+        "randomQuestions.C": "cpp",
+        "*.rmd": "markdown",
+        "linearConvolution.C": "cpp"
+    }
 }
